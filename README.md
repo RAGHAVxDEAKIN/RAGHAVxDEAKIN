@@ -22,13 +22,16 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <!-- Core Languages & Dev -->
+  <!-- Core -->
   <img src="https://skillicons.dev/icons?i=python,cpp,git,github,mongodb,linux" />
 
   <!-- Cybersecurity -->
-  <img src="https://www.kali.org/tools/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Amiteshkulkarni13/Icons/main/wireshark.png" alt="Wireshark" width="40" height="40"/>
+  <img src="assets/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
+  <img src="assets/wireshark-logo-big.CkRjSOaC_2eT4Ah.png" alt="Wireshark" width="40" height="40"/>
+  <img src="assets/Nmap-practice-lab1.png" alt="Nmap" width="40" height="40"/>
+  <img src="assets/download.png" alt="Metasploit" width="40" height="40"/>
 </p>
+
 
 
 
