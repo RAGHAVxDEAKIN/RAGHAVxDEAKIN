@@ -2,6 +2,7 @@
 
 🎓 Final Year | Bachelor of Information Technology  
 **Cyber Security Major | Software Development** 
+
 📍 Geelong, Australia  
 
 ---
