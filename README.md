@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Raghav Raj Thakur  
 
 🎓 Final Year | Bachelor of Information Technology  
-**Cyber Security Major | Software Development **  
+**Cyber Security Major | Software Development** 
 📍 Geelong, Australia  
 
 ---
